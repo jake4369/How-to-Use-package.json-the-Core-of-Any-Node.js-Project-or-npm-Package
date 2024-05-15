@@ -2,6 +2,12 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Jake Samuels",
   "description": "freeCodeCamp - Back End Development and APIs - Managing Packages with NPM",
+  "keywords": [
+    "freecodecamp",
+    "backend development",
+    "APIs",
+    "NPM"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
